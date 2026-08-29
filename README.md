@@ -52,5 +52,5 @@ A web application for learning Chinese vocabulary, grammar and exercises.
 
 ## 📫 Contact
 
-- GitHub: @YOUR_USERNAME
-- Email: your@email.com
+- GitHub: BaTungN
+- Email: batungxb@gmail.com
