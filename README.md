@@ -1,220 +1,208 @@
-# 👋 Hi, I'm Tùng
+<div align="center">
 
-### 💻 Software Developer | AI & Computer Vision Engineer
+# Tùng
 
-> Building reliable software, intelligent vision systems, and automation solutions.
+### Software Developer · AI & Computer Vision · Automation
 
-I’m a developer interested in **AI, Computer Vision, Backend Engineering, and Automation**.
+Building practical software systems that connect **AI, backend services, desktop applications, and hardware**.
 
-I enjoy turning real-world problems into practical software solutions — from image processing and object detection to backend APIs and desktop applications.
+<br>
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-BaTungN-18181B?style=flat-square\&logo=github)](https://github.com/BaTungN)
 
-## 🚀 About Me
-
-* 🔭 Currently working on **AI & Computer Vision applications**
-* 🤖 Interested in **Object Detection, OCR & Image Processing**
-* ⚙️ Building backend services with **Python & FastAPI**
-* 🖥️ Developing desktop applications with **C# & .NET**
-* 🗄️ Working with **MongoDB & REST APIs**
-* 🔐 Interested in **API Security, TLS & Network Architecture**
-* 🌱 Continuously learning **AI, Software Architecture & System Design**
-* 🇻🇳 Based in Vietnam
+</div>
 
 ---
 
-## 🧠 Tech Stack
+## About
 
-### Programming Languages
+I'm a software developer focused on building practical solutions for **computer vision, automation, backend systems, and desktop applications**.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-</p>
+My work spans from developing AI-powered image processing systems to designing secure client-server architectures and integrating software with hardware.
 
-### AI / Computer Vision
-
-<p>
-  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OCR-FF6F00?style=for-the-badge"/>
-</p>
-
-### Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-</p>
-
-### .NET / Desktop
-
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge"/>
-</p>
-
-### Database
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### Tools & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
+I care about writing software that is **reliable, maintainable, secure, and useful in real-world environments**.
 
 ---
 
-# 🔥 Featured Projects
+## Areas of Expertise
 
-## 🤖 AI & Computer Vision
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Projects involving:
+### Computer Vision
 
 * Object Detection
 * YOLO
 * OpenCV
 * OCR
 * Image Processing
-* Computer Vision automation
+* AI-assisted Inspection
+* Vision Automation
 
-**Focus:** Building practical AI solutions for real-world applications.
+</td>
 
----
+<td width="50%" valign="top">
 
-## ⚡ Backend API Platform
+### Software Engineering
 
-Backend services designed around:
-
-* FastAPI
-* REST API
-* MongoDB
-* Authentication
-* TLS / HTTPS
-* Network security
-* Client-server architecture
-
-**Focus:** Secure and maintainable backend systems.
-
----
-
-## 🖥️ Desktop Applications
-
-Building Windows applications using:
-
+* Python
 * C#
 * .NET
 * WPF
-* Python
-* Serial / COM communication
-* Hardware integration
+* REST API
+* FastAPI
+* MongoDB
 
-**Focus:** Automation and industrial software.
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-# 📊 GitHub Statistics
+### Systems & Automation
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+* Client / Server Architecture
+* Serial / COM Communication
+* Hardware Integration
+* Industrial Automation
+* Raspberry Pi
+* Windows Applications
 
----
+</td>
 
-# 🔥 Contribution Streak
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+### Infrastructure & Security
 
----
+* Git / GitHub
+* Docker
+* Linux
+* Tailscale
+* TLS / HTTPS
+* API Security
+* Network Architecture
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎯 Current Focus
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,fastapi,opencv,pytorch,mongodb,docker,git,github,linux,windows" />
+
+</div>
+
+---
+
+## Selected Work
+
+### Computer Vision & AI
+
+Developing computer vision solutions for real-world applications.
+
+**Focus**
+
+`YOLO` · `OpenCV` · `OCR` · `Image Processing` · `Object Detection`
+
+---
+
+### Backend & API Systems
+
+Designing backend services that provide a secure and structured interface between applications and data.
+
+**Focus**
+
+`Python` · `FastAPI` · `REST API` · `MongoDB` · `TLS` · `Authentication`
+
+---
+
+### Desktop & Automation
+
+Building Windows applications that interact with hardware and external systems.
+
+**Focus**
+
+`C#` · `.NET` · `WPF` · `Python` · `Serial / COM`
+
+---
+
+### Network & Remote Systems
+
+Working with secure connectivity between distributed devices and services.
+
+**Focus**
+
+`Tailscale` · `Linux` · `Raspberry Pi` · `VNC` · `Network Security`
+
+---
+
+## Featured Projects
+
+| Project                | Description                                                  | Technology              |
+| ---------------------- | ------------------------------------------------------------ | ----------------------- |
+| **Computer Vision**    | AI-based image processing and object detection               | Python · YOLO · OpenCV  |
+| **Backend API**        | Secure API layer for client-server applications              | FastAPI · MongoDB · TLS |
+| **Desktop Automation** | Windows applications for automation and hardware integration | C# · .NET · WPF         |
+| **Tailscale-VNC**      | Secure remote access configuration for Raspberry Pi          | Linux · Tailscale · VNC |
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BaTungN&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaTungN&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" />
+
+</div>
+
+---
+
+## Contribution
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=BaTungN&hide_border=true&background=00000000&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+
+</div>
+
+---
+
+## Current Direction
 
 ```text
-AI / Computer Vision     ███████████████████░   90%
-Backend Development      █████████████████░░░   85%
-C# / .NET                ████████████████░░░░   80%
-Python                   ███████████████████░   90%
-System Architecture      ██████████████░░░░░░   70%
-DevOps / Security        ████████████░░░░░░░░   60%
+Computer Vision       ████████████████████  90%
+Python                ████████████████████  90%
+C# / .NET             ██████████████████░░  85%
+Backend Engineering   █████████████████░░░  80%
+System Architecture   ███████████████░░░░░  70%
+Security / DevOps     █████████████░░░░░░░  65%
 ```
 
 ---
 
-# 🌱 Currently Learning
+## Engineering Principles
 
-```text
-├── Advanced Computer Vision
-├── Object Detection & YOLO
-├── AI-assisted Development
-├── Backend Architecture
-├── API Security
-├── TLS / Network Security
-└── System Design
-```
+> **Build simple. Make it reliable. Improve continuously.**
+
+I value:
+
+`Clean Code` · `Reliability` · `Security` · `Performance` · `Maintainability`
 
 ---
 
-# 💡 Development Philosophy
+<div align="center">
 
-> **Build it simple. Make it reliable. Improve it continuously.**
+### Let's build something useful.
 
-I believe good software should be:
+<br>
 
-* 🧩 Simple to understand
-* ⚡ Efficient
-* 🔐 Secure
-* 🛠️ Maintainable
-* 📈 Scalable
-* 🎯 Focused on solving real problems
+<img src="https://komarev.com/ghpvc/?username=BaTungN&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
 
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
-</p>
+</div>
